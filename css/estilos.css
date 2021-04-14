@@ -7,11 +7,7 @@ body{
 }
 
 #cabecera{
-<<<<<<< HEAD
-    background: gray; 
-=======
-    background: red; 
->>>>>>> cabecera
+    background: blue; 
     color: white; 
     font-weight: bold; 
     margin: 0;
